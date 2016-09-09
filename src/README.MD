@@ -7,8 +7,8 @@ python design.py
 
 TODO: 
 
-1) Add Multi threading to encrypt/decrypt files faster
-2) Integration with google drive, Amazon S3, DropBox and One Drive
-3) More UI improvements
-4) Creation of standalone executable file.
+* Add Multi threading to encrypt/decrypt files faster
+* Integration with google drive, Amazon S3, DropBox and One Drive
+* More UI improvements
+* Creation of standalone executable file.
 
