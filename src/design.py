@@ -12,7 +12,7 @@ class FrontEnd(QWidget):
         
         # Header image.. Need to get a Quality image
         self.hlabel = QLabel()
-        self.hpixmap = QPixmap('C:\Users\Revanth\workspace\Protect_files\src\images\header.png')
+        self.hpixmap = QPixmap(os.curdir()+'images\header.png')
         self.hlabel.setPixmap(self.hpixmap) 
         #self.hlabel.setMaximumWidth(400)
         
